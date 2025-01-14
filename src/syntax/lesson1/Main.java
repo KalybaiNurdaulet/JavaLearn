@@ -1,6 +1,6 @@
-package syntax;
+package syntax.lesson1;
 
-//this syntax.Main class
+//this syntax.lesson2.Main class
 public class Main {
     // this method main entry point to our programm
     public static void main(String[] args) {
